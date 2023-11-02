@@ -14,8 +14,10 @@ operational tasks, crafting IAM policies for security, utilizing ECS and ECR for
 harnessing S3 for scalable storage, managing DNS with Route 53, leveraging CodeCommit and CodeArtifact for 
 version control and artifact management, automating pipelines with CodePipeline, distributing content with
 CloudFront, and monitoring applications and resources with CloudWatch.In addition, I have extensive experience
-with Slack for seamless communication and collaboration within teams.If you have any questions, 
-feel free to ask. I'm here to assist!
+with Slack for seamless communication and collaboration within teams.
+Jira Ticketing Tool:Monitoring Jira for new tickets and updates.Reviewing and prioritizing tasks assigned through Jira.Responding to comments and updating ticket status.Collaborating with team members through Jira for task progress.
+
+If you have any questions, feel free to ask. I'm here to assist!
 
 Q2.roles and responsiblities and day-to-day activities in your project?
 
