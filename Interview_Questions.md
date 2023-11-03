@@ -135,6 +135,11 @@ A: In Jenkins, JNLP is used to allow agents (also known as "slave nodes") to be 
 Q: What are some of the common plugins that you use in Jenkins ?
 
 A: Be prepared for answer, you need to have atleast 3-4 on top of your head, so that interview feels you use jenkins on a day-to-day basis.
-Eg.Maven Integration; GitHub Integration; Nexus Artifact Uploader; SonarQubeScanner; Build Timestamp;
+Eg.ci/cd for container project is used Nexus Artifact Uploader; SonarQubeScanner;  Build Timestamp; Pipeline Maven Integration; Pipeline Utility Steps
+Maven Integration; 
+GitHub Integration; 
+Nexus Artifact Uploader; 
+SonarQubeScanner; 
+Build Timestamp;
 Slack Notification;
 
