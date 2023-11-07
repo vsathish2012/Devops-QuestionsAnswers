@@ -23,9 +23,9 @@ To create a new S3 bucket: --> `aws s3api create-bucket --bucket <bucket-name> -
 
 To list your S3 buckets--> aws s3 ls
 
-To create an EC2 instance:--> aws ec2 run-instances --image-id <ami-id> --count 1 --instance-type t2.micro --key-name <your-key-pair>
+To create an EC2 instance:--> `aws ec2 run-instances --image-id <ami-id> --count 1 --instance-type t2.micro --key-name <your-key-pair>`
 
-To describe your running EC2 instances:--> aws ec2 describe-instances
+To describe your running EC2 instances:--> `aws ec2 describe-instances`
 
 ### 8. What is the syntax for AWS CLI commands?
 The basic syntax for AWS CLI commands is `aws <service-name> <operation> [options]`, where you replace `<service-name>` with the service you want to interact with and `<operation>` with the desired action.
