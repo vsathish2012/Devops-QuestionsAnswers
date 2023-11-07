@@ -15,9 +15,11 @@
 
 ### 6. **Question:** Describe the use of AWS Systems Manager Automation and its impact on DevOps practices.
 **Answer:** AWS Systems Manager Automation enables you to automate common operational tasks across AWS resources. In DevOps, it enhances repeatability and consistency by automating tasks like patch management, application deployments, and configuration changes, reducing manual intervention and errors.
-Remote execution
+
+Remote execution-->
 Safe and secure remote execution across instances at scale without SSH or PowerShell.
-Parameter store
+
+Parameter store-->
 Centralized hierarchical store for managing secrets or plain-text data.
 
 ### 7. **Question:** How can you implement fine-grained monitoring and alerting using Amazon CloudWatch Metrics and Alarms?
