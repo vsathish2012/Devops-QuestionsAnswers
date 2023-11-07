@@ -22,6 +22,9 @@ Safe and secure remote execution across instances at scale without SSH or PowerS
 Parameter store-->
 Centralized hierarchical store for managing secrets or plain-text data.
 
+AWS AppConfig-->
+Manage Dynamic Application Configuration and Feature Flags. Create, manage, and safely deploy application configuration data to your targets at runtime.
+
 ### 7. **Question:** How can you implement fine-grained monitoring and alerting using Amazon CloudWatch Metrics and Alarms?
 **Answer:** Amazon CloudWatch Metrics provide granular insights into resource performance, while CloudWatch Alarms enable you to set thresholds and trigger actions based on metric conditions. In DevOps, you can use these services to monitor specific application and infrastructure metrics, allowing you to respond to issues proactively.
 
