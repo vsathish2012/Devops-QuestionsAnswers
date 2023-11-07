@@ -39,6 +39,12 @@ Output formatting options allow you to specify how the results of AWS CLI comman
 ### 11. How can you filter and format AWS CLI command output?
 You can use filters like `--query` to extract specific data from AWS CLI command output, and you can use `--output` to choose the format of the output.
 
+`aws <service> <command> --query <jmespath-expression>`      
+`aws ec2 describe-instances --query 'Reservations[].Instances[].[InstanceId,InstanceType]`
+
+`aws <service> <command> --output <format> --query <jmespath-expression> > output.txt`      
+`aws ec2 describe-instances --query 'Reservations[].Instances[].[InstanceId,InstanceType]' --output table`
+
 ### 12. How can you create and manage AWS resources using the AWS CLI?
 You can create and manage AWS resources using commands such as `aws ec2 create-instance` for EC2 instances or `aws s3 cp` to copy files to Amazon S3 buckets.
 
