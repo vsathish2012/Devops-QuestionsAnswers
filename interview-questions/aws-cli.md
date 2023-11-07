@@ -19,7 +19,7 @@ IAM user-based credentials are long-term access keys associated with an IAM user
 ### 7. How can you interact with AWS services using the AWS CLI?
 You can interact with AWS services by using AWS CLI commands specific to each service. For example, you can use `aws ec2 describe-instances` to list EC2 instances.
 
-To create a new S3 bucket: --> aws s3api create-bucket --bucket <bucket-name> --region <region>
+To create a new S3 bucket: --> `aws s3api create-bucket --bucket <bucket-name> --region <region>`
 
 To list your S3 buckets--> aws s3 ls
 
